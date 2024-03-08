@@ -1,4 +1,6 @@
 <h1 align="center"> Anonymous Polling System </h1>
+Utilizing Laravel framework with Breeze authentication, Alpine.js for dynamic interactivity, and Tailwind CSS for sleek styling, this anonymous voting project provides a seamless user experience. Users can securely vote on various topics while maintaining anonymity, ensuring privacy and engagement. The combination of Laravel's robust backend, Alpine.js for frontend functionality, and Tailwind CSS for design flexibility results in an efficient, modern voting platform.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -7,5 +9,3 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-Utilizing Laravel framework with Breeze authentication, Alpine.js for dynamic interactivity, and Tailwind CSS for sleek styling, this anonymous voting project provides a seamless user experience. Users can securely vote on various topics while maintaining anonymity, ensuring privacy and engagement. The combination of Laravel's robust backend, Alpine.js for frontend functionality, and Tailwind CSS for design flexibility results in an efficient, modern voting platform.
